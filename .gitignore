@@ -1,0 +1,34 @@
+# Build artifacts
+dist/
+build/
+
+#Backup
+backup/
+
+#Compiled files
+*.js
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Editor-specific files and directories
+.vscode/
+.idea/
+
+# Package lock file
+package-lock.json
+
+# TypeScript declaration files
+*.d.ts
+
+# Test coverage reports
+coverage/
+
+# Sensitive information
+secrets.txt

@@ -1,0 +1,4644 @@
+
+Stair Group 1:
+  Stair ID: 1600198
+    Solid 1:
+      Face 1:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 2.73, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 2.71, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 2.71, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 3.00, Vertical: 0.00
+      Face 3:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 3.00, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.01, Vertical: 0.00
+      Face 4:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 3.01, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 2.73, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Face 6:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+    Solid 2:
+      Face 1:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 10.37, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 10.34, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 10.34, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 10.34, Vertical: 0.00
+      Face 3:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 10.34, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 10.37, Vertical: 0.00
+      Face 4:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 10.37, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 10.37, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Face 6:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+    Solid 3:
+      Face 1:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.74, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 3.72, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 3.72, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 3.44, Vertical: 0.00
+      Face 3:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.44, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 3.46, Vertical: 0.00
+      Face 4:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 3.46, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 3.74, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Face 6:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+    Solid 4:
+      Face 1:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 2.98, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 2.98, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 2.98, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 2.98, Vertical: 0.00
+      Face 3:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 2.98, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 2.98, Vertical: 0.00
+      Face 4:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 2.98, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 2.98, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Face 6:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+    Solid 5:
+      Face 1:
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 9.07, Vertical: 5.66
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 9.07, Vertical: 5.66
+      Face 3:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 9.07, Vertical: 5.66
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 8.79, Vertical: 5.48
+      Face 4:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.79, Vertical: 5.48
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.79, Vertical: 5.48
+      Face 5:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 8.79, Vertical: 5.48
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 9.07, Vertical: 5.66
+      Face 6:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+    Solid 6:
+      Face 1:
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.12, Vertical: 5.06
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.12, Vertical: 5.06
+      Face 3:
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 8.12, Vertical: 5.06
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 8.12, Vertical: 5.06
+      Face 4:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.12, Vertical: 5.06
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.12, Vertical: 5.06
+      Face 5:
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 8.12, Vertical: 5.06
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 8.12, Vertical: 5.06
+      Face 6:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.16
+    Solid 7:
+    Solid 8:
+      Face 1:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 2:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 10.34, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 3.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 3:
+      Horizontal: 10.34, Vertical: 0.00
+      Horizontal: 3.66, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.00
+      Horizontal: 3.00, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 4:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.66, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 5:
+      Horizontal: 10.34, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 10.34, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 6:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 7:
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 8:
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 9:
+      Horizontal: 3.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 10:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.00, Vertical: 0.00
+      Face 11:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+    Solid 9:
+    Solid 10:
+      Face 1:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 2:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 3:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 4:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 5:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 6:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 7:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 8:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 9:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 10:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 11:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 12:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 13:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 14:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 15:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 16:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 17:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 18:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 19:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 20:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 21:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 22:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 23:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 24:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 25:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 26:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 27:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 28:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 29:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 30:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 31:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 32:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 33:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 34:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 35:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 36:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 37:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 38:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 39:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 40:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 41:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 42:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 43:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 44:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 45:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 46:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 47:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 48:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 49:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 50:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 51:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 52:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 53:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 54:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 55:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 56:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 57:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 58:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 59:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 60:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 61:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 62:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 63:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 64:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 65:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 66:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 67:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 68:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 69:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 70:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 71:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 72:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 73:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 74:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 75:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 76:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 77:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 78:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 79:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 80:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 81:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 82:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 83:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 84:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 85:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 86:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 87:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 88:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 89:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 90:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 91:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 92:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 93:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 94:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 95:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 96:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 97:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 98:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 99:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 100:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 101:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 102:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 103:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 104:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 105:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 106:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 107:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 108:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 109:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 110:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 111:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 112:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 113:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 114:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+    Solid 11:
+      Face 1:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.57, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.57, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.80
+      Face 3:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.97, Vertical: 5.59
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.97, Vertical: 5.59
+      Face 4:
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 8.97, Vertical: 5.59
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 8.68, Vertical: 5.41
+      Horizontal: 0.57, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 0.57, Vertical: 0.00
+      Horizontal: 8.68, Vertical: 5.41
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 8.97, Vertical: 5.59
+      Face 6:
+      Horizontal: 8.68, Vertical: 5.41
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.68, Vertical: 5.41
+      Horizontal: 0.02, Vertical: 0.00
+      Face 7:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+    Solid 12:
+      Face 1:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.57, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.57, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 0.57, Vertical: 0.00
+      Horizontal: 8.43, Vertical: 5.26
+      Horizontal: 0.00, Vertical: 1.14
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 8.97, Vertical: 5.59
+      Face 3:
+      Horizontal: 0.00, Vertical: 1.14
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.14
+      Horizontal: 0.02, Vertical: 0.00
+      Face 4:
+      Horizontal: 8.43, Vertical: 5.26
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.43, Vertical: 5.26
+      Horizontal: 0.02, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 8.97, Vertical: 5.59
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.14
+      Horizontal: 8.43, Vertical: 5.26
+      Horizontal: 0.57, Vertical: 0.00
+      Face 6:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Face 7:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.97, Vertical: 5.59
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.97, Vertical: 5.59
+      Face 8:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.80
+    Solid 13:
+    Solid 14:
+      Face 1:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 2:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 3:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 4:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 5:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 6:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 7:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 8:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 9:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 10:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 11:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 12:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 13:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 14:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 15:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 16:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 17:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 18:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 19:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 20:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 21:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 22:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 23:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 24:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 25:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 26:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 27:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 28:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 29:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 30:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 31:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 32:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 33:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 34:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 35:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 36:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 37:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 38:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 39:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 40:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 41:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 42:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 43:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 44:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 45:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 46:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 47:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 48:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 49:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 50:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 51:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 52:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 53:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 54:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 55:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 56:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 57:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 58:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 59:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 60:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 61:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 62:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 63:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 64:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 65:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 66:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 67:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 68:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 69:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 70:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 71:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 72:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 73:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 74:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 75:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 76:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 77:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 78:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 79:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 80:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 81:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 82:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 83:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 84:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 85:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 86:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 87:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 88:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 89:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 90:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 91:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 92:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 93:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 94:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 95:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 96:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 97:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 98:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 99:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 100:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 101:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 102:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 103:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 104:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 105:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 106:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 107:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 108:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 109:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 110:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 111:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 112:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 113:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 114:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 115:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 116:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 117:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 118:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 119:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 120:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 121:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.90, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 122:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.90, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 123:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 124:
+      Horizontal: 0.90, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.90, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 125:
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 126:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 127:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+
+Stair Group 2:
+  Stair ID: 1600660
+    Solid 1:
+      Face 1:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 2.73, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 2.71, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 2.71, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 3.00, Vertical: 0.00
+      Face 3:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 3.00, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.01, Vertical: 0.00
+      Face 4:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 3.01, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 2.73, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Face 6:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+    Solid 2:
+      Face 1:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 12.76, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 12.72, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 12.72, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 12.72, Vertical: 0.00
+      Face 3:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 12.72, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 12.76, Vertical: 0.00
+      Face 4:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 12.76, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 12.76, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Face 6:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+    Solid 3:
+      Face 1:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.74, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 3.72, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 3.72, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 3.44, Vertical: 0.00
+      Face 3:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.44, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 3.46, Vertical: 0.00
+      Face 4:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 3.46, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 3.74, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Face 6:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+    Solid 4:
+      Face 1:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 5.36, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 5.36, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 5.36, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 5.36, Vertical: 0.00
+      Face 3:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 5.36, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 5.36, Vertical: 0.00
+      Face 4:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 5.36, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 5.36, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Face 6:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+    Solid 5:
+      Face 1:
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 12.68, Vertical: 7.91
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 12.68, Vertical: 7.91
+      Face 3:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 12.68, Vertical: 7.91
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 12.40, Vertical: 7.73
+      Face 4:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 12.40, Vertical: 7.73
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 12.40, Vertical: 7.73
+      Face 5:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 12.40, Vertical: 7.73
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 12.68, Vertical: 7.91
+      Face 6:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+    Solid 6:
+      Face 1:
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 11.73, Vertical: 7.31
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 11.73, Vertical: 7.31
+      Face 3:
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 11.73, Vertical: 7.31
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 11.73, Vertical: 7.31
+      Face 4:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 11.73, Vertical: 7.31
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 11.73, Vertical: 7.31
+      Face 5:
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 11.73, Vertical: 7.31
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 11.73, Vertical: 7.31
+      Face 6:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.16
+    Solid 7:
+    Solid 8:
+      Face 1:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 2:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 12.72, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 5.38, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 3:
+      Horizontal: 12.72, Vertical: 0.00
+      Horizontal: 3.66, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.00
+      Horizontal: 5.38, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 4:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.66, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 5:
+      Horizontal: 12.72, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 12.72, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 6:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 7:
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 8:
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 9:
+      Horizontal: 5.38, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 5.38, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 10:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.00, Vertical: 0.00
+      Face 11:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+    Solid 9:
+    Solid 10:
+      Face 1:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 2:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 3:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 4:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 5:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 6:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 7:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 8:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 9:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 10:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 11:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 12:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 13:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 14:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 15:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 16:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 17:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 18:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 19:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 20:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 21:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 22:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 23:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 24:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 25:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 26:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 27:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 28:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 29:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 30:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 31:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 32:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 33:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 34:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 35:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 36:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 37:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 38:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 39:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 40:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 41:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 42:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 43:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 44:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 45:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 46:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 47:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 48:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 49:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 50:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 51:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 52:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 53:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 54:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 55:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 56:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 57:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 58:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 59:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 60:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 61:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 62:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 63:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 64:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 65:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 66:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 67:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 68:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 69:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 70:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 71:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 72:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 73:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 74:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 75:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 76:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 77:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 78:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 79:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 80:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 81:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 82:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 83:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 84:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 85:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 86:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 87:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 88:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 89:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 90:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 91:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 92:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 93:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 94:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 95:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 96:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 97:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 98:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 99:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 100:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 101:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 102:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 103:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 104:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 105:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 106:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 107:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 108:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 109:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 110:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 111:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 112:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 113:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 114:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 115:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 116:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 117:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 118:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 119:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 120:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 121:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 122:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 123:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 124:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 125:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 126:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 127:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 128:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 129:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 130:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 131:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 132:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 133:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 134:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 135:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 136:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 137:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 138:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 139:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 140:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 141:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 142:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 143:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 144:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 145:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 146:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 147:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 148:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 149:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 150:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 151:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 152:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 153:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 154:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 155:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 156:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 157:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 158:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 159:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 160:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 161:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 162:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+    Solid 11:
+      Face 1:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.57, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.57, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.80
+      Face 3:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 5.36, Vertical: 3.34
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 5.36, Vertical: 3.34
+      Face 4:
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 5.36, Vertical: 3.34
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 5.07, Vertical: 3.16
+      Horizontal: 0.57, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 0.57, Vertical: 0.00
+      Horizontal: 5.07, Vertical: 3.16
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 5.36, Vertical: 3.34
+      Face 6:
+      Horizontal: 5.07, Vertical: 3.16
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 5.07, Vertical: 3.16
+      Horizontal: 0.02, Vertical: 0.00
+      Face 7:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+    Solid 12:
+      Face 1:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.57, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.57, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 0.57, Vertical: 0.00
+      Horizontal: 4.82, Vertical: 3.01
+      Horizontal: 0.00, Vertical: 1.14
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 5.36, Vertical: 3.34
+      Face 3:
+      Horizontal: 0.00, Vertical: 1.14
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.14
+      Horizontal: 0.02, Vertical: 0.00
+      Face 4:
+      Horizontal: 4.82, Vertical: 3.01
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 4.82, Vertical: 3.01
+      Horizontal: 0.02, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 5.36, Vertical: 3.34
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.14
+      Horizontal: 4.82, Vertical: 3.01
+      Horizontal: 0.57, Vertical: 0.00
+      Face 6:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Face 7:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 5.36, Vertical: 3.34
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 5.36, Vertical: 3.34
+      Face 8:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.80
+    Solid 13:
+    Solid 14:
+      Face 1:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 2:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 3:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 4:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 5:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 6:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 7:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 8:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 9:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 10:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 11:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 12:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 13:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 14:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 15:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 16:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 17:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 18:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 19:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 20:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 21:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 22:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 23:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 24:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 25:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 26:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 27:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 28:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 29:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 30:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 31:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 32:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 33:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 34:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 35:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 36:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 37:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 38:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 39:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 40:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 41:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 42:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 43:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 44:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 45:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 46:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 47:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 48:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 49:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 50:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 51:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 52:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 53:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 54:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 55:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 56:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 57:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 58:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 59:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 60:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 61:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 62:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 63:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 64:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 65:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 66:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 67:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 68:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 69:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 70:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 71:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 72:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 73:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.90, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 74:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.90, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 75:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 76:
+      Horizontal: 0.90, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.90, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 77:
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 78:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 79:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+
+Stair Group 3:
+  Stair ID: 1601042
+    Solid 1:
+      Face 1:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 2.73, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 2.71, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 2.71, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 3.00, Vertical: 0.00
+      Face 3:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 3.00, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.01, Vertical: 0.00
+      Face 4:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 3.01, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 2.73, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Face 6:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+    Solid 2:
+      Face 1:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 13.09, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 13.05, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 13.05, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 13.05, Vertical: 0.00
+      Face 3:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 13.05, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 13.09, Vertical: 0.00
+      Face 4:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 13.09, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 13.09, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Face 6:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+    Solid 3:
+      Face 1:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.74, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 3.72, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 3.72, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 3.44, Vertical: 0.00
+      Face 3:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.44, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 3.46, Vertical: 0.00
+      Face 4:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 3.46, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 3.74, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Face 6:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.03, Vertical: 0.00
+    Solid 4:
+      Face 1:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 5.69, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 5.69, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 5.69, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 5.69, Vertical: 0.00
+      Face 3:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 5.69, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 5.69, Vertical: 0.00
+      Face 4:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 5.69, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 5.69, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Face 6:
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+    Solid 5:
+      Face 1:
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.17, Vertical: 5.09
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 8.17, Vertical: 5.09
+      Face 3:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 8.17, Vertical: 5.09
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 7.89, Vertical: 4.92
+      Face 4:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 7.89, Vertical: 4.92
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 7.89, Vertical: 4.92
+      Face 5:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 7.89, Vertical: 4.92
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 8.17, Vertical: 5.09
+      Face 6:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+    Solid 6:
+      Face 1:
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 7.22, Vertical: 4.50
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 7.22, Vertical: 4.50
+      Face 3:
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 7.22, Vertical: 4.50
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 7.22, Vertical: 4.50
+      Face 4:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 7.22, Vertical: 4.50
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 7.22, Vertical: 4.50
+      Face 5:
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 7.22, Vertical: 4.50
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 7.22, Vertical: 4.50
+      Face 6:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.16
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.16
+    Solid 7:
+    Solid 8:
+      Face 1:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 2:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 13.05, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 5.71, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 3:
+      Horizontal: 13.05, Vertical: 0.00
+      Horizontal: 3.66, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.00
+      Horizontal: 5.71, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 4:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.66, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 5:
+      Horizontal: 13.05, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 13.05, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 6:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 7:
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 8:
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 9:
+      Horizontal: 5.71, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 5.71, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 10:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.00, Vertical: 0.00
+      Face 11:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+    Solid 9:
+    Solid 10:
+      Face 1:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 2:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 3:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 4:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 5:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 6:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 7:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 8:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 9:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 10:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 11:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 12:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 13:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 14:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 15:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 16:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 17:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 18:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 19:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 20:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 21:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 22:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 23:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 24:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 25:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 26:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 27:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 28:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 29:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 30:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 31:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 32:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 33:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 34:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 35:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 36:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 37:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 38:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 39:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 40:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 41:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 42:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 43:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 44:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 45:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 46:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 47:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 48:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 49:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 50:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 51:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 52:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 53:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 54:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 55:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 56:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 57:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 58:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 59:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 60:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 61:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 62:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 63:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 64:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 65:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 66:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 67:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 68:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 69:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 70:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 71:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 72:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 73:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 74:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 75:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 76:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 77:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 78:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 79:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 80:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 81:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 82:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 83:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 84:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 85:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 86:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 87:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 88:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 89:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 90:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 91:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 92:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 93:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 94:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 95:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 96:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 97:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 98:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 99:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 100:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 101:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 102:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+    Solid 11:
+      Face 1:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.57, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.57, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.80
+      Face 3:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 9.87, Vertical: 6.15
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 9.87, Vertical: 6.15
+      Face 4:
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 9.87, Vertical: 6.15
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 9.58, Vertical: 5.97
+      Horizontal: 0.57, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 0.57, Vertical: 0.00
+      Horizontal: 9.58, Vertical: 5.97
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 9.87, Vertical: 6.15
+      Face 6:
+      Horizontal: 9.58, Vertical: 5.97
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 9.58, Vertical: 5.97
+      Horizontal: 0.02, Vertical: 0.00
+      Face 7:
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.28, Vertical: 0.98
+      Horizontal: 0.02, Vertical: 0.00
+    Solid 12:
+      Face 1:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.57, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.57, Vertical: 0.00
+      Face 2:
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 0.57, Vertical: 0.00
+      Horizontal: 9.33, Vertical: 5.82
+      Horizontal: 0.00, Vertical: 1.14
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 9.87, Vertical: 6.15
+      Face 3:
+      Horizontal: 0.00, Vertical: 1.14
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.14
+      Horizontal: 0.02, Vertical: 0.00
+      Face 4:
+      Horizontal: 9.33, Vertical: 5.82
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 9.33, Vertical: 5.82
+      Horizontal: 0.02, Vertical: 0.00
+      Face 5:
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 9.87, Vertical: 6.15
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 1.14
+      Horizontal: 9.33, Vertical: 5.82
+      Horizontal: 0.57, Vertical: 0.00
+      Face 6:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.03, Vertical: 0.00
+      Face 7:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 9.87, Vertical: 6.15
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 9.87, Vertical: 6.15
+      Face 8:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.80
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.80
+    Solid 13:
+    Solid 14:
+      Face 1:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 2:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 3:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 4:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 5:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 6:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 7:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 8:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 9:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 10:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 11:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 12:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 13:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 14:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 15:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 16:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 17:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 18:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 19:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 20:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 21:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 22:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 23:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 24:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 25:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 26:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 27:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 28:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 29:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 30:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 31:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 32:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 33:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 34:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 35:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 36:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 37:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 38:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 39:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 40:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 41:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 42:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 43:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 44:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 45:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 46:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 47:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 48:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 49:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 50:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 51:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 52:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 53:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 54:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 55:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 56:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 57:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 58:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 59:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 60:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 61:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 62:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 63:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 64:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 65:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 66:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 67:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 68:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 69:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 70:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 71:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 72:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 73:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 74:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 75:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 76:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 77:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 78:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 79:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 80:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 81:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 82:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 83:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 84:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 85:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 86:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 87:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 88:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 89:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 90:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 91:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 92:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 93:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 94:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 95:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 96:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 97:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 98:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 99:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 100:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 101:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 102:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 103:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 104:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 105:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 106:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 107:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 108:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 109:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 110:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 111:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 112:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 113:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 114:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 115:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 116:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 117:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 118:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 119:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 120:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 121:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 122:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 123:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 124:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 125:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 126:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 127:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Face 128:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Face 129:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 130:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 131:
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.08, Vertical: 0.54
+      Horizontal: 3.67, Vertical: 0.00
+      Face 132:
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.02, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 133:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.90, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Face 134:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.90, Vertical: 0.00
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 1.00, Vertical: 0.00
+      Face 135:
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 1.00, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 136:
+      Horizontal: 0.90, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.90, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 137:
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 0.10, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Face 138:
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Face 139:
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
+      Horizontal: 3.67, Vertical: 0.00
+      Horizontal: 0.00, Vertical: 0.02
