@@ -13,7 +13,7 @@ const EPSILON = 1e-6;
  * @returns boolean - Whether any stair meets the depth condition.
  */
 export function isStairDepthLargerThan(stairs: Stair[][]): boolean {
-  let isValid = false;
+  let isValid: boolean = false;
 
   for (let groupIndex = 0; groupIndex < stairs.length; groupIndex++) {
     console.log(`Stair Group ${groupIndex + 1}:`);

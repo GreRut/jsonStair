@@ -17,16 +17,16 @@ export function stairEquation(
   stepDepth: number, // t
   stepHeight: number // r
 ): boolean {
-  const minT = 14.9,
-    maxT = 18,
-    minR = 25,
-    maxR = 30,
-    minSum = 60,
-    maxSum = 65;
-  const proportion = stepHeight / stepDepth;
-  const stepSize = 0.5;
+  const minT: number = 15,
+    maxT: number = 18,
+    minR: number = 25,
+    maxR: number = 30,
+    minSum: number = 60,
+    maxSum: number = 65;
+  const proportion: number = stepHeight / stepDepth;
+  const stepSize: number = 0.5;
 
-  let foundValid = false;
+  let foundValid: boolean = false;
 
   for (let t = minT; t <= maxT; t += stepSize) {
     const r = t * proportion;
