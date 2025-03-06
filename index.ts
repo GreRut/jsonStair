@@ -6,7 +6,6 @@ import { isStairDepthLargerThan } from "./isStairDepthLargerThan";
 const stairs = readStairJson("stair.json");
 
 if (stairs.length === 0) {
-  console.log("No stairs found, exiting.");
   process.exit(1);
 }
 
