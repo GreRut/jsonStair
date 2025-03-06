@@ -28,7 +28,6 @@ export function extractFaceDimensions(
         output += `    Solid ${solidIndex + 1}:\n`;
 
         solid.faces.forEach((face, faceIndex) => {
-          // Compute horizontal & vertical dimensions for each face loop
           const dimensions = face.loops.flatMap((loop) =>
             loop.map(({ start, end }) => {
               const horizontal = Math.hypot(end.x - start.x, end.y - start.y);
@@ -44,9 +43,7 @@ export function extractFaceDimensions(
           output += `      Face ${faceIndex + 1}:\n${dimensions
             .map(
               (dim) =>
-                `      Horizontal: ${dim.horizontal.toFixed(
-                  2
-                )}, Vertical: ${dim.vertical.toFixed(2)}`
+                `      Horizontal: ${dim.horizontal}, Vertical: ${dim.vertical}`
             )
             .join("\n")}\n`;
         });
