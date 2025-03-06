@@ -4,7 +4,7 @@ import { stairEquation } from "./stairEquation";
 /**
  * Small tolerance value to handle floating-point precision issues.
  */
-const EPSILON = 1e-6;
+const EPSILON = 1e-4;
 
 /**
  * Determines if any stair in the given groups meets the depth condition.

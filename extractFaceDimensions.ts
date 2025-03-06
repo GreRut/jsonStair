@@ -4,7 +4,7 @@ import { Stair } from "./types";
 /**
  * Small threshold to handle floating-point precision errors.
  */
-const EPSILON = 1e-6;
+const EPSILON = 1e-4;
 
 /**
  * Extracts face dimensions (horizontal & vertical) from stair data and saves them to a file.
