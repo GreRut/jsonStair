@@ -2,9 +2,6 @@ import * as fs from "fs";
 import { isValidStair } from "./typeValidation";
 import { Stair } from "./types";
 
-/**
- * Reads and parses a JSON file containing stair data.
- */
 export function readStairJson(filePath: string): Stair[][] {
   try {
     const rawData = fs.readFileSync(filePath, "utf-8");

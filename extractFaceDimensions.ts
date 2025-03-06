@@ -1,9 +1,6 @@
 import * as fs from "fs";
 import { Stair } from "./types";
 
-/**
- * Small threshold to handle floating-point precision errors.
- */
 const EPSILON = 1e-4;
 
 /**
@@ -12,6 +9,7 @@ const EPSILON = 1e-4;
  * @param stairs - Grouped stair data
  * @param outputFilePath - Path to save the extracted data
  */
+
 export function extractFaceDimensions(
   stairs: Stair[][],
   outputFilePath: string
