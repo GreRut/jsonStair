@@ -4,19 +4,22 @@ import { stairEquation } from "./stairEquation";
 const EPSILON = 1e-4;
 
 function findMostCommon(counts: Map<number, number>): number {
-  let mostCommonValue = 0;
+  let mostCommon = 0;
   let maxCount = 0;
+
   counts.forEach((count, value) => {
     if (count > maxCount) {
-      mostCommonValue = value;
+      mostCommon = value;
       maxCount = count;
     }
   });
-  return mostCommonValue;
+
+  return mostCommon;
 }
 
 function collectHeights(stair: Stair): Map<number, number> {
   const heightCounts = new Map<number, number>();
+
   stair.solids.forEach((solid) => {
     solid.faces.forEach((face) => {
       face.loops.forEach((loop) => {
@@ -29,45 +32,51 @@ function collectHeights(stair: Stair): Map<number, number> {
       });
     });
   });
+
   return heightCounts;
 }
 
 function collectWidths(
   stair: Stair,
-  referenceHeight: number
+  mostCommonHeight: number
 ): Map<number, number> {
   const widthCounts = new Map<number, number>();
-  stair.solids.forEach((solid) => {
-    solid.faces.forEach((face) => {
-      face.loops.forEach((loop) => {
-        loop.forEach(({ start, end }) => {
-          const width = Math.hypot(end.x - start.x, end.y - start.y);
-          if (
-            width > EPSILON &&
-            width >= referenceHeight / 3 - EPSILON &&
-            width <= referenceHeight * 3 + EPSILON
-          ) {
-            widthCounts.set(width, (widthCounts.get(width) || 0) + 1);
-          }
+
+  if (mostCommonHeight > EPSILON) {
+    stair.solids.forEach((solid) => {
+      solid.faces.forEach((face) => {
+        face.loops.forEach((loop) => {
+          loop.forEach(({ start, end }) => {
+            const width = Math.hypot(end.x - start.x, end.y - start.y);
+
+            if (
+              width > EPSILON &&
+              width >= mostCommonHeight / 3 - EPSILON &&
+              width <= mostCommonHeight * 3 + EPSILON
+            ) {
+              widthCounts.set(width, (widthCounts.get(width) || 0) + 1);
+            }
+          });
         });
       });
     });
-  });
+  }
+
   return widthCounts;
 }
 
 export function isStairDepthLargerThan(stairs: Stair[][]): boolean {
-  for (let groupIndex = 0; groupIndex < stairs.length; groupIndex++) {
+  let isValid = false;
+
+  stairs.forEach((group, groupIndex) => {
     console.log(`Stair Group ${groupIndex + 1}:`);
 
-    for (const stair of stairs[groupIndex]) {
+    group.forEach((stair) => {
       const heightCounts = collectHeights(stair);
       const mostCommonHeight = findMostCommon(heightCounts);
-      if (mostCommonHeight <= EPSILON) continue;
 
       const widthCounts = collectWidths(stair, mostCommonHeight);
       const mostCommonWidth = findMostCommon(widthCounts);
-      if (mostCommonWidth <= EPSILON) continue;
 
       console.log(`Stair ID: ${stair.id}`);
       console.log(
@@ -77,10 +86,13 @@ export function isStairDepthLargerThan(stairs: Stair[][]): boolean {
         `     - Most Common Width: ${mostCommonWidth.toFixed(2)} units`
       );
 
-      if (stairEquation(mostCommonHeight, mostCommonWidth)) {
-        return true;
+      if (mostCommonHeight > EPSILON && mostCommonWidth > EPSILON) {
+        if (stairEquation(mostCommonHeight, mostCommonWidth)) {
+          isValid = true;
+        }
       }
-    }
-  }
-  return false;
+    });
+  });
+
+  return isValid;
 }
